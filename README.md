@@ -2,5 +2,5 @@
 
 CRUD de usuarios y roles
 
-1-Composer install
-2-php artisan migrate
+<p>1-Composer install</p><br>
+<p>2-php artisan migrate</p>
